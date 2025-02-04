@@ -1,4 +1,4 @@
-```markdown
+
 # Automatic License Plate Recognition (ALPR) System with Access Control
 
 ## Overview
@@ -102,8 +102,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-## Contact
-For questions or feedback, please contact [Your Name] at [your.email@example.com].
-``` 
-
-This README provides a clear and structured overview of the project, making it easy for users to understand, set up, and contribute to the system.
